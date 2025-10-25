@@ -1,0 +1,23 @@
+{
+  "name": "kyrt-icon",
+  "version": "0.0.1",
+  "description": "KYRT Icon - Icon modern yang ringan dan cepat",
+  "keywords": [
+    "css",
+    "framework",
+    "frontend",
+    "kyrt", 
+    "icon"
+  ],
+  "author": "Sholehuddin Khairy",
+  "license": "sPHPin A1",
+  "homepage": "https://kyrt.my.id/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/kyrt-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/kyrt-icon/issues"
+  },
+  "style": "/kyrt.css"
+}
