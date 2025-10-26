@@ -10,8 +10,22 @@ Bahasa Pemrograman: CSS + SVG Combine
 
 Deskripsi: **KYRT Icon Adalah Sebuah Satu-Kesatuan Dari KYRT Framework**
 
-> Jika Kalian Mau Melihat Dokumentasi Nya Silakan [Kesini](https://kyrt.my.id/docs/how-to-use-kyrt-icon) Untuk Melihat Cara Penggunaan Nya
+## Cara Memakai Nya
+1. Dengan **NPM**
+```bash
+# jalankan ini ke Terminal Kalian
+npm install kyrt-icon
+```
 
+2. Dengan Git Clone
+```bash
+# Jlankan ini ke terminal kalian
+git clone https://github.com/KhairyK/kyrt-icon.git
+```
+
+3. Download ZIP
+
+Silakan Pencet Tombol ***Code*** dan klik text **Download ZIP**
 
 Contoh Penggunaan:
 ```html
