@@ -1,6 +1,6 @@
 {
   "name": "kyrt-icon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "KYRT Icon - Icon modern yang ringan dan cepat",
   "keywords": [
     "css",
@@ -14,10 +14,11 @@
   "homepage": "https://kyrt.my.id/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/kyrt-icon.git"
+    "url": "https://github.com/KhairyK/kyrt-icon.git"
   },
   "bugs": {
-    "url": "https://github.com/username/kyrt-icon/issues"
+    "url": "https://github.com/KhairyK/kyrt-icon/issues"
   },
-  "style": "/kyrt.css"
+  "style": "/kyrt.css", 
+  "type": "commondJS"
 }
