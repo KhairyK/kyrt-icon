@@ -19,7 +19,7 @@ npm install kyrt-icon
 
 2. Dengan Git Clone
 ```bash
-# Jlankan ini ke terminal kalian
+# Jalankan ini ke terminal kalian
 git clone https://github.com/KhairyK/kyrt-icon.git
 ```
 
