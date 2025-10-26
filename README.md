@@ -1,6 +1,6 @@
 # KYRT Icon
 ---
-Versi: 0.0.1
+Versi: 0.0.2
 
 Tipe: Icon
 
