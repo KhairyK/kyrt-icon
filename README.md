@@ -4,7 +4,7 @@ Versi: 0.0.2
 
 Tipe: Icon
 
-Lisensi: sPHPin A1
+Lisensi: MIT
 
 Bahasa Pemrograman: CSS + SVG Combine
 
