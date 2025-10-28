@@ -31,7 +31,7 @@ Silakan Pencet Tombol ***Code*** dan klik text **Download ZIP**
 
 Silakan Copy Dan Paste Ke Tag HTML `<head>` Kalian. 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/kyrt-icon@0.0.3/kyrt-svg_icon.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/kyrt-icon@0.0.3/dist/kyrt-svg_icon.min.css" />
 ```
 
 Contoh Penggunaan:
