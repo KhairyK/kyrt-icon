@@ -64,12 +64,17 @@ Bisa Juga `mai` Diganti Dengan `i`, Misal:
 
 Ini Dia, Icon Yang Ditambahkan Di Versi 1.0.0(Terbaru/Latest):
 ```html
-  <i class="mai icon-code"></i>
+	<i class="mai icon-code"></i>
 	<i class="i icon-email"></i>
 	<i class="mai icon-arrow-left"></i>
 	<i class="i icon-arrow-right"></i>
 	<i class="mai icon-arrow-up"></i>
 	<i class="i icon-arrow-down"></i>
+	<i class="mai icon-search"></i>
+	<i class="i icon-notification"></i>
+	<i class="mai icon-audio"></i>
+	<i class="i icon-audio-muted"></i>
+	<i class="mai icon-instagram"></i>
 ```
 
 ## Lisensi
