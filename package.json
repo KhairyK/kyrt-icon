@@ -1,10 +1,9 @@
 {
   "name": "kyrt-icon",
-  "version": "0.0.3",
+  "version": "1.0.0-alpha.1",
   "description": "KYRT Icon - Icon modern yang ringan dan cepat",
   "keywords": [
     "css",
-    "framework",
     "frontend",
     "kyrt", 
     "icon"
@@ -17,8 +16,9 @@
     "url": "https://github.com/KhairyK/kyrt-icon.git"
   },
   "bugs": {
-    "url": "https://github.com/KhairyK/kyrt-icon/issues"
+    "url1": "https://github.com/KhairyK/kyrt-icon/issues", 
+    "url2": " https://girthub.com/KhairyK/kyrt-bugs/issues"
   },
-  "style": "/dist/kyrt-svg_icon.min.css", 
+  "style": "/dist/all.min.css", 
   "type": "commondJS"
 }
