@@ -1,0 +1,24 @@
+# Ignore testing & config files
+tests/
+coverage/
+.vscode/
+.github/
+.env
+
+# Ignore build tools & temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Ignore Not Minified File
+dist/non_min_component/
+dist/component/non_min/
+
+# Main File Are Not Going To NPM
+.rc
+.version
+.beta
+.alpha
+
+# DNS Record
+CNAME
