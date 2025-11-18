@@ -1,0 +1,47 @@
+.anim-float {
+  animation: float 1.15s ease-in-out infinite alternate;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+.anim-bounce {
+  animation: bounce 0.8s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+    animation-timing-function: ease-out;
+  }
+  50% {
+    transform: translateY(-18px);
+    animation-timing-function: ease-in;
+  }
+}
+
+.anim-wiggle {
+  animation: wiggle 0.4s ease-in-out infinite;
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(2deg); }
+  75% { transform: rotate(-2deg); }
+}
+
+.rainbow-flow {
+  background: linear-gradient(
+    90deg,
+    #ff6b6b, #ffa36c, #ffe66d, #6bf178,
+    #6bc2ff, #9b6bff, #ff6bcb
+  );
+  background-size: 400% 400%;
+  animation: flow 6s ease infinite;
+}
+
+@keyframes flow {
+  0%,100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
