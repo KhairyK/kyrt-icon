@@ -6,8 +6,9 @@ Bagian ini menjelaskan versi proyek yang saat ini masih mendapatkan pembaruan ke
 
 | Versi | Didukung           |
 | ----- | ------------------ |
+| 1.0.0A1| :white_check_mark:|
 | 0.0.2 | :white_check_mark: |
-| 0.0.1 | :white_check_mark: |
+| 0.0.1 | :x:                |
 
 ## Melaporkan Kerentanan
 
